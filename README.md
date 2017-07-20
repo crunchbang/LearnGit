@@ -1,2 +1,15 @@
-# LearnGit
-Lear Git through practice!
+# Learn Git
+
+Steps to be a part of this repo:
+* Fork this repo using the button on top.
+* Clone the repo forked repo.
+* Create a branch using `git checkout -b <your_name>`
+* Add your name to the end of `wall_of_fame.md`
+* Commit your changes `git commit -am "Add <yourname>`
+* Push it to origin `git push origin <yourname>`
+* Click the compare and submit pull request button
+* Wait for your commit to get merged
+
+You're done!
+
+
