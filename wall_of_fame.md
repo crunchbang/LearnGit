@@ -11,7 +11,8 @@ List of brave souls who survived Git:
 * Mahesh Tolani
 * Palash Gupta
 * Shashikant
+* Sayan Das
 * Saumya Paigwar 
 ---
 Insert your names above like this\
-`* Sayan Das`
+`* Your name`
