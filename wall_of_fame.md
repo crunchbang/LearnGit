@@ -1,5 +1,6 @@
 # Wall of Fame
 
+
 List of brave souls who survived Git:
 * Dummy Name
 * Anoop Toffy
@@ -18,6 +19,7 @@ List of brave souls who survived Git:
 * Kaushal Mehta
 * Neeraja Tokekar
 * Shreyans Vora
+* Shweta Chopra
 * Pragya Gupta
 * Akshita Goyal
 
