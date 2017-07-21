@@ -13,6 +13,7 @@ List of brave souls who survived Git:
 * Shashikant
 * Sayan Das
 * Saumya Paigwar 
+* Kaushal Mehta
 ---
 Insert your names above like this\
 `* Your name`
