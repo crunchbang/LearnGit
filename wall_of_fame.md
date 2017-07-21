@@ -25,6 +25,7 @@ List of brave souls who survived Git:
 * Pragya Gupta
 * Akshita Goyal
 * Sandeep Singh
+* Mayank Senani
 ---
 Insert your names above like this\
 `* Your name`
