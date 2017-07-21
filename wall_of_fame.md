@@ -3,6 +3,8 @@
 List of brave souls who survived Git:
 * Dummy Name
 * Anoop Toffy
+
+* Karan Gupta
 * Bhakti Mantri
 * Kavya Puranik
 * Mahesh Tolani
