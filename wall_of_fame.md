@@ -10,10 +10,15 @@ List of brave souls who survived Git:
 * Kavya Puranik
 * Mahesh Tolani
 * Palash Gupta
+* Ishan Mahajan
 * Shashikant
 * Sayan Das
 * Saumya Paigwar
 * Shivam Agrahari 
+* Kaushal Mehta
+* Neeraja Tokekar
+* Shreyans Vora
+
 ---
 Insert your names above like this\
 `* Your name`
