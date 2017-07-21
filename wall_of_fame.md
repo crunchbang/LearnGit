@@ -18,7 +18,9 @@ List of brave souls who survived Git:
 * Kaushal Mehta
 * Neeraja Tokekar
 * Shreyans Vora
+* Pragya Gupta
 * Akshita Goyal
+
 ---
 Insert your names above like this\
 `* Your name`
