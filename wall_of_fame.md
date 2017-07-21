@@ -13,7 +13,9 @@ List of brave souls who survived Git:
 * Shashikant
 * Sayan Das
 * Saumya Paigwar 
+* Neeraja Tokekar
 * Shreyans Vora
+
 ---
 Insert your names above like this\
 `* Your name`
