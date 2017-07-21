@@ -12,4 +12,4 @@ List of brave souls who survived Git:
 
 ---
 Insert your names above like this\
-`* Your Name`
+`* Sayan Das`
