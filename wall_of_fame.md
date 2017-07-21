@@ -11,6 +11,7 @@ List of brave souls who survived Git:
 * Kavya Puranik
 * Mahesh Tolani
 * Palash Gupta
+* Sonee Paghdar
 * Ishan Mahajan
 * Shashikant
 * Sayan Das
@@ -24,8 +25,11 @@ List of brave souls who survived Git:
 * Shweta Chopra
 * Pragya Gupta
 * Akshita Goyal
+* Apoorva Jalgaonkar
 * Sandeep Singh
 * Mayank Senani
+* Harshita Gupta
+
 ---
 Insert your names above like this\
 `* Your name`
