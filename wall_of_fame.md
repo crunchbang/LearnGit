@@ -24,7 +24,7 @@ List of brave souls who survived Git:
 * Shweta Chopra
 * Pragya Gupta
 * Akshita Goyal
-
+* Sandeep Singh
 ---
 Insert your names above like this\
 `* Your name`
