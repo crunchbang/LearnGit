@@ -37,6 +37,7 @@ List of brave souls who survived Git:
 * Bhavuk Sharma
 * Abhishek Joshi
 * Surya
+* Siddhant Mehta
 
 ---
 Insert your names above like this\
