@@ -34,6 +34,9 @@ List of brave souls who survived Git:
 * Harsha Sahu
 * Hanshika Agrawal
 * kamle palash
+* Abhishek Joshi
+
 ---
 Insert your names above like this\
 `* Your name`
+
