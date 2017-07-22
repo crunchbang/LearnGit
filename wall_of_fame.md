@@ -33,7 +33,7 @@ List of brave souls who survived Git:
 * Minal Patil
 * Harsha Sahu
 * Hanshika Agrawal
-
+* kamle palash
 ---
 Insert your names above like this\
 `* Your name`
