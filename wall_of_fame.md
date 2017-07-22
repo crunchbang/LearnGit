@@ -30,7 +30,10 @@ List of brave souls who survived Git:
 * Mayank Senani
 * Harshita Gupta
 * Nikita Agrawal
+* Minal Patil
+* Harsha Sahu
+* Hanshika Agrawal
+
 ---
 Insert your names above like this\
 `* Your name`
-
