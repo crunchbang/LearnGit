@@ -29,7 +29,7 @@ List of brave souls who survived Git:
 * Sandeep Singh
 * Mayank Senani
 * Harshita Gupta
-
+* Harsha Sahu
 ---
 Insert your names above like this\
 `* Your name`
