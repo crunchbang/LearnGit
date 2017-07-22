@@ -42,6 +42,7 @@ List of brave souls who survived Git:
 * Siddhant Mehta
 * Bhavna Diyalani
 * Ayush Khopkar
+* Pragya Gupta
 
 ---
 Insert your names above like this\
