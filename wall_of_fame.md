@@ -36,6 +36,7 @@ List of brave souls who survived Git:
 * kamle palash
 * Bhavuk Sharma
 * Abhishek Joshi
+* Hatim Bohra
 
 ---
 Insert your names above like this\
