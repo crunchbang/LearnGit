@@ -41,6 +41,8 @@ List of brave souls who survived Git:
 * Surya
 * Siddhant Mehta
 * Bhavna Diyalani
+* Ayush Khopkar
+
 ---
 Insert your names above like this\
 `* Your name`
