@@ -36,4 +36,4 @@ List of brave souls who survived Git:
 
 ---
 Insert your names above like this\
-`* Your name`
+`* Abhishek Joshi`
