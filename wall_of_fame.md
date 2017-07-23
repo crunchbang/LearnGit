@@ -43,6 +43,7 @@ List of brave souls who survived Git:
 * Hatim Bohra
 * Surya
 * Siddhant Mehta
+* Parag Jain
 * Mayank Kshirsagar
 * Bhavna Diyalani
 * Ayush Khopkar
