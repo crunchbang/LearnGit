@@ -61,7 +61,7 @@ List of brave souls who survived Git:
 * Minnu Ann Abraham
 * Shivangi Awasthi
 * Prakhar Agarwal
-
+* Tilak
 ---
 Insert your names above like this\
 `* Your name`
