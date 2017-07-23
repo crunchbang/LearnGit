@@ -68,7 +68,7 @@ List of brave souls who survived Git:
 * Tilak
 * Suyash Pandya
 * suraj chaunal(rowdy)
-
+* Devyani Bajaj
 ---
 Insert your names above like this\
 `* Your name`
