@@ -4,6 +4,7 @@
 List of brave souls who survived Git:
 * Dummy Name
 * Anoop Toffy
+* Sumitesh
 * Kirti Agarwal
 * Ravi Theja
 * Karan Gupta
@@ -62,6 +63,7 @@ List of brave souls who survived Git:
 * Shivangi Awasthi
 * Prakhar Agarwal
 * suraj chaunal(rowdy)
+
 ---
 Insert your names above like this\
 `* Your name`
