@@ -13,4 +13,8 @@ Steps to be a part of this repo:
 
 You're done!
 
+Addendum:
+
+I mentioned in class that you can download the zip and start running the git commands. I was wrong. It won't work. You have to clone the repo to get the git info associated with it.
+
 
