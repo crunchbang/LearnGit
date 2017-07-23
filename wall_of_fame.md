@@ -23,7 +23,6 @@ List of brave souls who survived Git:
 * Anmol Asrani
 * Shimona Gupta
 * Shweta Chopra
-* Pragya Gupta
 * Akshita Goyal
 * Apoorva Jalgaonkar
 * Sandeep Singh
@@ -43,6 +42,8 @@ List of brave souls who survived Git:
 * Bhavna Diyalani
 * Ayush Khopkar
 * Pragya Gupta
+* Pulkit Agarwal
+* Anish Pal
 
 ---
 Insert your names above like this\
