@@ -44,7 +44,7 @@ List of brave souls who survived Git:
 * Pragya Gupta
 * Pulkit Agarwal
 * Anish Pal
-
+* Surya Kant Mishra
 ---
 Insert your names above like this\
 `* Your name`
