@@ -52,6 +52,7 @@ List of brave souls who survived Git:
 * Nehal Sharma
 * Surya Kant Mishra
 * Shivangi Awasthi
+* Prakhar Agarwal
 
 ---
 Insert your names above like this\
