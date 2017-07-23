@@ -42,7 +42,7 @@ List of brave souls who survived Git:
 * Siddhant Mehta
 * Bhavna Diyalani
 * Ayush Khopkar
-
+* Anish Pal
 ---
 Insert your names above like this\
 `* Your name`
