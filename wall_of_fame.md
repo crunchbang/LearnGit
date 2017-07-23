@@ -51,7 +51,7 @@ List of brave souls who survived Git:
 * Dhanya Akhila
 * Nehal Sharma
 * Surya Kant Mishra
-
+* **Ravi Ranjan**
 ---
 Insert your names above like this\
 `* Your name`
