@@ -68,6 +68,7 @@ List of brave souls who survived Git:
 * Tilak
 * Suyash Pandya
 * suraj chaunal(rowdy)
+* Rahul Sirmour
 * Pankaj Gupta
 * Prasun Joshi
 * Shruti Aggarwal
