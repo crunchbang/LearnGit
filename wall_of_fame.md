@@ -4,6 +4,7 @@
 List of brave souls who survived Git:
 * Dummy Name
 * Anoop Toffy
+* Sumitesh
 * Kirti Agarwal
 * Ravi Theja
 * Karan Gupta
@@ -42,6 +43,8 @@ List of brave souls who survived Git:
 * Hatim Bohra
 * Surya
 * Siddhant Mehta
+* Parag Jain
+* Mayank Kshirsagar
 * Bhavna Diyalani
 * Ayush Khopkar
 * Pragya Gupta
@@ -61,6 +64,10 @@ List of brave souls who survived Git:
 * Minnu Ann Abraham
 * Shivangi Awasthi
 * Prakhar Agarwal
+* Amal Mishra
+* Tilak
+* Suyash Pandya
+* suraj chaunal(rowdy)
 * Prasun Joshi
 
 ---
