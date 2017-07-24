@@ -68,6 +68,7 @@ List of brave souls who survived Git:
 * Tilak
 * Suyash Pandya
 * suraj chaunal(rowdy)
+* Rahul Sirmour
 
 ---
 Insert your names above like this\
