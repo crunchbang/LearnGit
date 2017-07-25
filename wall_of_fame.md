@@ -39,6 +39,7 @@ List of brave souls who survived Git:
 * kamle palash
 * Bhavuk Sharma
 * Abhishek Joshi
+* Nishu Goyal
 * Shubham bansal 
 * Janardhana Anipireddy
 * Hatim Bohra
