@@ -29,6 +29,7 @@ List of brave souls who survived Git:
 * Rajat Aggarwal
 * Akshita Goyal
 * Apoorva Jalgaonkar
+* Jaishankar G M
 * Sandeep Singh
 * Mayank Senani
 * Harshita Gupta
