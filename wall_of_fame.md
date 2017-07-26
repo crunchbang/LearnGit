@@ -2,6 +2,7 @@
 
 
 List of brave souls who survived Git:
+* Ishan Palimkar
 * Dummy Name
 * Anoop Toffy
 * Sumitesh
